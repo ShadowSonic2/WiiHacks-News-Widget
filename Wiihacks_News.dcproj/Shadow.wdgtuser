@@ -14,12 +14,12 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {759, 335}}</string>
-			<string>{{0, 345}, {759, 146}}</string>
+			<string>{{0, 0}, {759, 394}}</string>
+			<string>{{0, 404}, {759, 146}}</string>
 		</array>
 	</dict>
 	<key>ContentViewType</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>DeploymentOptions</key>
 	<dict>
 		<key>Destination</key>
@@ -29,7 +29,7 @@
 		<key>Path</key>
 		<string>Wiihacks News</string>
 		<key>WidgetDeployName</key>
-		<string>Wiihacks News</string>
+		<string>WiiHacks News</string>
 		<key>enableSimulation</key>
 		<true/>
 		<key>simulatedHost</key>
@@ -43,8 +43,8 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {244, 512}}</string>
-			<string>{{245, 0}, {760, 512}}</string>
+			<string>{{0, 0}, {244, 571}}</string>
+			<string>{{245, 0}, {760, 571}}</string>
 		</array>
 	</dict>
 	<key>MainWindowFrame</key>
@@ -59,23 +59,32 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {246, 326}}</string>
-			<string>{{0, 336}, {246, 155}}</string>
+			<string>{{0, 0}, {246, 366}}</string>
+			<string>{{0, 376}, {246, 174}}</string>
 		</array>
 	</dict>
 	<key>Widget</key>
 	<dict>
 		<key>Objects view expanded items</key>
-		<array/>
-		<key>Objects view last selections</key>
 		<array>
 			<array>
-				<integer>2</integer>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>4</integer>
 			</array>
 		</array>
+		<key>Objects view last selections</key>
+		<array/>
 		<key>Visible StackLayout Views</key>
 		<array>
-			<string>back</string>
+			<string>front</string>
 		</array>
 	</dict>
 </dict>

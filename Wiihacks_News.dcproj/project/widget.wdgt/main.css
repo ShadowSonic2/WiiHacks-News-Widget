@@ -255,3 +255,27 @@ body {
     width: auto;
     height: auto;
 }
+
+#image1 {
+    position: absolute;
+    right: auto;
+    bottom: auto;
+    margin-top: 0px;
+    top: 12px;
+    width: 42px;
+    height: 42px;
+    left: 212px;
+}
+
+#inner_image1 {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}

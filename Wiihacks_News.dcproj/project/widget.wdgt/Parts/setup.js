@@ -11,8 +11,10 @@ var dashcodePartSpecs = {
     "done": { "creationFunction": "CreateGlassButton", "onclick": "showFront", "text": "Done" },
     "feedTitle": { "text": "My RSS Feed", "view": "DC.Text" },
     "image": { "view": "DC.ImageLayout" },
+    "image1": { "view": "DC.ImageLayout" },
     "info": { "backgroundStyle": "black", "creationFunction": "CreateInfoButton", "foregroundStyle": "white", "frontID": "front", "onclick": "showBack" },
     "loading-text": { "text": "Loading", "view": "DC.Text" },
     "topRectangleShape": { "creationFunction": "CreateShape", "leftImageWidth": 12, "rightImageWidth": 12 }
 };
+
 
