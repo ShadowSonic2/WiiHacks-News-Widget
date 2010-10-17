@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CYLastWindowPosition</key>
-	<string>{709, 249}</string>
+	<string>{831, 239}</string>
 	<key>ContentSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
 		<integer>8</integer>
 		<key>SplitViewConfig</key>
-		<integer>3</integer>
+		<integer>1</integer>
 		<key>_indexOfCollapsedView</key>
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {759, 394}}</string>
-			<string>{{0, 404}, {759, 146}}</string>
+			<string>{{0, 0}, {759, 324}}</string>
+			<string>{{0, 334}, {759, 225}}</string>
 		</array>
 	</dict>
 	<key>ContentViewType</key>
@@ -25,15 +25,13 @@
 		<key>Destination</key>
 		<string>localhost.default</string>
 		<key>EmailToNotifyAddress</key>
-		<string>shadowsonic2@wiihacks.com</string>
+		<string>shadow-himself@hotmail.com</string>
 		<key>Path</key>
-		<string>Wiihacks News</string>
-		<key>WidgetDeployName</key>
-		<string>WiiHacks News</string>
+		<string>Wiihacks_News</string>
 		<key>enableSimulation</key>
 		<true/>
 		<key>simulatedHost</key>
-		<string>Shadow-MacBook.local</string>
+		<string>ShadowSonic2s-MacBook.local</string>
 	</dict>
 	<key>Design time language</key>
 	<string>en.lproj</string>
@@ -43,24 +41,24 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {244, 571}}</string>
-			<string>{{245, 0}, {760, 571}}</string>
+			<string>{{0, 0}, {244, 580}}</string>
+			<string>{{245, 0}, {760, 580}}</string>
 		</array>
 	</dict>
 	<key>MainWindowFrame</key>
-	<string>243 186 1004 592 0 0 1280 778 </string>
+	<string>235 177 1004 601 0 0 1280 778 </string>
 	<key>NavigatorSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
-		<integer>5</integer>
+		<integer>9</integer>
 		<key>SplitViewConfig</key>
 		<integer>3</integer>
 		<key>_indexOfCollapsedView</key>
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {246, 366}}</string>
-			<string>{{0, 376}, {246, 174}}</string>
+			<string>{{0, 0}, {246, 371}}</string>
+			<string>{{0, 381}, {246, 178}}</string>
 		</array>
 	</dict>
 	<key>Widget</key>
@@ -82,6 +80,14 @@
 		</array>
 		<key>Objects view last selections</key>
 		<array/>
+		<key>Opened Steps</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>2</integer>
+			<integer>3</integer>
+			<integer>4</integer>
+		</array>
 		<key>Visible StackLayout Views</key>
 		<array>
 			<string>front</string>
