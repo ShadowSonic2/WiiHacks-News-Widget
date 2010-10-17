@@ -7,11 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
-	<string>Untitled</string>
+	<string>WiiHacks News</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.wiihacks.news</string>
 	<key>CFBundleName</key>
-	<string>Untitled</string>
+	<string>WiiHacks News</string>
 	<key>CFBundleShortVersionString</key>
 	<string>0.2</string>
 	<key>CFBundleVersion</key>
